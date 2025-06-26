@@ -1,11 +1,3 @@
-
-import { Istok_Web } from "next/font/google";
-
-const istokWeb = Istok_Web({
-  variable: "--font-istok-web",
-  weight: ["400", "700"],
-});
-
 export default function Home() {
   return (
     <main className="bg-white min-h-screen text-white font-sans relative">
