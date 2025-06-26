@@ -1,8 +1,6 @@
 
 import { Istok_Web } from "next/font/google";
 
-
-
 const istokWeb = Istok_Web({
   variable: "--font-istok-web",
   subsets: ["latin"],
