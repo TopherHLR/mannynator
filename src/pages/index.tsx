@@ -1,15 +1,7 @@
-import Image from "next/image";
-import { Geist, Geist_Mono, Istok_Web } from "next/font/google";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
+import { Istok_Web } from "next/font/google";
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+
 
 const istokWeb = Istok_Web({
   variable: "--font-istok-web",
