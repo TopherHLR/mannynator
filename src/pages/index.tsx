@@ -13,7 +13,7 @@ export default function Home() {
         {/* Overlay Right Side - Responsive Version */}
         <div className="absolute top-0 right-0 w-full md:w-1/2 h-full z-20 flex items-center px-4 md:px-16 lg:px-26">
           {/* Gradient overlay - responsive adjustment */}
-          <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-all duration-500 backdrop-blur-sm md:backdrop-blur-xl bg-gradient-to-l from-[#041562]/90 via-[#041562]/70 to-transparent bg-no-repeat z-10"></div>
+          <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-all duration-500 backdrop-blur-sm md:backdrop-blur-xl bg-gradient-to-l from-[#041562]/90 via-[#11468F]/70 to-transparent bg-no-repeat z-10"></div>
 
           {/* TEXT CONTENT - Responsive */}
           <div className="relative z-20 text-left text-white space-y-4 md:space-y-6 max-w-xs sm:max-w-md md:max-w-lg w-full mx-4 md:group-hover:translate-x-0 md:translate-x-10 transition-all duration-500 ease-out">
